@@ -1,12 +1,47 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- Qiaoying Qu, Bin Pan, <strong>Xia Xu<strong>*, Tao Li and Zhenwei Shi. Unmixing Guided Unsupervised Network for RGB Spectral Super-Resolution. IEEE Transactions on Image Processing, vol. 32, pp. 4856-4867, 2023. [[Code]](https://github.com/senli1073/LNRL)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Xia Xu<strong>, Xinyu Song, Tao Li, Zhenwei Shi and Bin Pan. Deep Autoencoder for Hyperspectral Unmixing via Global-Local Smoothing. IEEE Transactions on Geoscience and Remote Sensing, vol. 60, no. 5524216,2022.
+
+- <strong>Xia Xu<strong>, Bin Pan, Zongqing Chen, Zhenwei Shi, Tao Li. Simultaneously Multiobjective Sparse Unmixing and Library Pruning for Hyperspectral Imagery. IEEE Transactions on Geoscience and Remote Sensing, 59(4): 3383-3395, 2021.
+
+- <strong>Xia Xu<strong>, Zhenwei Shi, Bin Pan, Xuelong Li. A Classification-based Model for Multi-Objective Hyperspectral Sparse Unmixing, IEEE Transactions on Geoscience and Remote Sensing, 57(12): 9612-9625, 2019. 
+
+- Yuexin Duan#, <strong>Xia Xu<strong>#, Bin Pan, Tao Li and Zhenwei Shi. UnDAT: Double Aware Transformer for Hyperspectral Unmixing. IEEE Transactions on Geoscience and Remote Sensing, vol. 61, no. 5522012,2023.
+
+- Bin Pan, Qiaoying Qu, <strong>Xia Xu<strong>*, Zhenwei Shi, Structure-Color Preserving Network for Hyperspectral Image Super Resolution, IEEE Transactions on Geoscience and Remote Sensing, vol. 60, no. 5520512, 2022.
+
+- Bin Pan, Zhenwei Shi*, <strong>Xia Xu<strong>*. Multi-Objective Based Sparse Representation Classifier for Hyperspectral Imagery Using Limited Samples. IEEE Transactions on Geoscience and Remote Sensing, 57(1): 239-249, 2019.
+
+- <strong>Xia Xu<strong>, Zhenwei Shi, Bin Pan. L0-based Sparse Hyperspectral Unmixing using Spectral Information and a Multi-Objectives Formulation. ISPRS Journal of Photogrammetry and Remote Sensing, 141, 46-58, 2018.
+
+- <strong>Xia Xu<strong>, Zhenwei Shi. Multi-Objective based Spectral Unmixing for Hyperspectral Images. ISPRS Journal of Photogrammetry and Remote Sensing, 124: 54-69, 2017.
+
+- <strong>Xia Xu<strong>*, Yinggan Tang, Junpeng Li, Changchun Hua, Xinping Guan. Dynamic Multi-Swarm Particle Swarm Optimizer with Cooperative Learning Strategy. Applied Soft Computing, 29: 169-183, 2015.
+
+- Lukui Shi, Nanying Liang, <strong>Xia Xu<strong>*, Tao Li*, Zhou Zhang. SA-JSTN: Self-Attention Joint Spatiotemporal Network for Temperature Forecasting. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 9475-9485, 2021.
+
+- Jun Zhang, Changming Xie, <strong>Xia Xu<strong>*, Zhenwei Shi, Bin Pan. A Contextual Bidirectional Enhancement Method for Remote Sensing Image Object Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 4518-4531, 2020.
+
+- Lukui Shi, Huizhen Zhang, <strong>Xia Xu<strong>*, Ming Han, Peiliang Zuo. A Balanced Social LSTM for PM2.5 Concentration Prediction Based on Local Spatiotemporal Correlation, Chemosphere, vol. 291, no. 3, 133124, 2022.
+
+- Lukui Shi, Zhenjie Tang, Tiantian Wang, <strong>Xia Xu<strong>*, Jing Liu and Jun Zhang. Aircraft Detection in Remote Sensing Images Based on Deconvolution and Position Attention. International Journal of Remote Sensing, 42(11): 4241-4260, 2021.
+
+- Bin Pan, <strong>Xia Xu<strong>*, Zhenwei Shi, Ning Zhang, Huanlin Luo, Xianchao Lan. DSSNet: A Simple Dilated Semantic Segmentation Network for Hyperspectral Imagery Classification. IEEE Geoscience and Remote Sensing Letters, 17(11): 1968-1972, 2020.
+
+- Enhai Liu, Xintong Zhang, <strong>Xia Xu<strong>*, Shiyan Fan. Slice-Feature Based Deep Hashing Algorithm for Remote Sensing Image Retrieval. Infrared Physics and Technology, vol. 107, 103299, 2020.
+
+- <strong>Xia Xu<strong>, Zhenwei Shi, Bin Pan. A New Unsupervised Hyperspectral Band Selection Method Based on Multiobjective Optimization. IEEE Geoscience and Remote Sensing Letters, 14(11): 2112-2116, 2017.
+
+- <strong>Xia Xu<strong>*, Changchun Hua, Yinggan Tang, Xinping Guan. Modeling of the hot metal silicon content in blast furnace using support vector machine optimized by an improved particle swarm optimizer. Neural Computing and Applications, 27: 1451-1461, 2016.
+
+- <strong>Xia Xu<strong>, Zhenwei Shi, Bin Pan. A supervised abundance estimation method for hyperspectral unmixing. Remote sensing letters, 9 (4), 383-392, 2018.
+
+- Sumin Wang, Yuyou Gao, Yongdao Zhou, Bin Pan, <strong>Xia Xu<strong>*, Tao Li. Reducing the statistical error of generative adversarial networks using space-filling sampling. Stat 13 (1), e655, 2023.
+
+- Bin Pan, <strong>Xia Xu<strong>*, Zhenwei Shi. Tropical cyclone intensity prediction based on recurrent neural networks. Electronics Letters, 55 (7), 413-415, 2019.
+
+- <strong>Xia Xu<strong>, Ning Zhang, Zhenwei Shi, Shaobiao Xie, Naiming Qi. Sparse unmixing of hyperspectral images based on Pareto optimization. 红外与激光工程, 47 (2), 226002-0226002(5), 2018.
+
+- <strong>Xia Xu<strong>, Liming Wang, Bin Pan, Zhenwei Shi. Robust sparse hyperspectral unmixing based on multiobjective optimization. IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium, 2018.
 
 - <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
